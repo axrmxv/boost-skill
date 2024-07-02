@@ -1,7 +1,12 @@
 # boost-skill
 Обучающая платформа.
 
-**Стек: Python, FastAPI, uvicorn, PostgreSQL, Docker**
+**Стек: 
+[Python](https://www.python.org/), 
+[FastAPI](https://fastapi.tiangolo.com/), 
+[Uvicorn](https://www.uvicorn.org/), 
+[PostgreSQL](https://www.postgresql.org/), 
+[Docker](https://www.docker.com/)**
 
 ### Ролевая модель пользователей:
 - Студент
