@@ -3,3 +3,7 @@ SQLAlchemy==2.0.36
 # psycopg2==2.9.9
 asyncpg==0.30.0
 alembic==1.13.3
+pydantic_settings==2.6.1
+pyjwt
+passlib[bcrypt]
+types-passlib
